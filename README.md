@@ -1,7 +1,7 @@
 ## Setup & Run (Web)
 
-1. flutter config --enable-web  
-2. flutter run -d chrome
+1.  
+2. 
 
 ## Branch & Commit
 
